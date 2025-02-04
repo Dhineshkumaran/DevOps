@@ -1,3 +1,5 @@
+git remote add origin https://github.com/Dhineshkumaran/DevOps
+
 git add test2.txt
 
 git commit -m"Added test.txt"
