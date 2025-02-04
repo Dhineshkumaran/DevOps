@@ -1,1 +1,8 @@
 Sample text
+
+git config --global user.name ""
+git config --global user.email ""
+
+git pull remo_repo_url
+
+git clone remo_repo_url
